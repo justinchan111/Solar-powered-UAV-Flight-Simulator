@@ -5,9 +5,9 @@ A full description of the applied flight model can be found in the 'Solar-powere
 Vehicle (SUAV) PROTOTYPE Flight Model' document, which is a segment of the final year project report
 associated with this simulator. The results of the included example simulation is shown below:
 
-<img src="ExampleFlight3DPath.png" height="450" />
+<img src="ExampleFlight3DFlightPath.png" height="450" />
 
-<img src="ExampleFlightSimulationResults.png" height="450" />
+<img src="ExampleFlightSimulationResults.png" height="700" />
 
 The purpose of each .py file in folders 'app', 'data', and 'model' is described below:
 
