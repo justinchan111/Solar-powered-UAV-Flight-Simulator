@@ -3,7 +3,13 @@
 This simulator simulates SUAV point-to-point flight based on defined starting conditions and mission parameters, accounting for wind and cloud cover.
 A full description of the applied flight model can be found in the 'Solar-powered Unmanned Aerial 
 Vehicle (SUAV) PROTOTYPE Flight Model' document, which is a segment of the final year project report
-associated with this simulator. The purpose of each .py file is described below:
+associated with this simulator. The results of the included example simulation is shown below:
+
+<img src="ExampleFlight3DPath.png" height="450" />
+
+<img src="ExampleFlightSimulationResults.png" height="450" />
+
+The purpose of each .py file in folders 'app', 'data', and 'model' is described below:
 
 model\SolarUAV.py - Contains the class used to define the SUAV parameters, mission starting
 conditions, and mission parameters. It initially applies parameters of a generic SUAV.
